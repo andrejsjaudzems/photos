@@ -1,6 +1,11 @@
-# Base configs
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+# Gallery configs
+# Main
+gallery_main_image_fulls_loc: "/images/fulls"
+gallery_main_image_thumbs_loc: "/images/thumbs"
+
+# Equines
+gallery_equines_image_fulls_loc: "/images/gallery-equines/fulls"
+gallery_equines_image_thumbs_loc: "/images/gallery-equines/thumbs"
 
 # UI configs
 title: "Photos | Andrejs Jaudzems"

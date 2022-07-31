@@ -11,6 +11,10 @@ gallery_equines_image_thumbs_loc: "/images/gallery-equines/thumbs"
 gallery_nature_image_fulls_loc: "/images/gallery-nature/fulls"
 gallery_nature_image_thumbs_loc: "/images/gallery-nature/thumbs"
 
+# Nature
+gallery_entertainment_image_fulls_loc: "/images/gallery-entertainment/fulls"
+gallery_entertainment_image_thumbs_loc: "/images/gallery-entertainment/thumbs"
+
 # UI configs
 title: "Photos | Andrejs Jaudzems"
 subtitle: "A space for my photographs"

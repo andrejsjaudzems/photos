@@ -374,6 +374,39 @@
 		white-space: nowrap;
 	}
 
+#link-gallery {
+        -moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		background-color: transparent;
+		border: 0;
+		border-radius: 0;
+		box-shadow: inset 0 0 0 2px #36383c;
+		color: #a0a0a1 !important;
+		cursor: pointer;
+		display: inline-block;
+		font-size: 0.9em;
+		font-weight: 300;
+		height: 3.05556em;
+		letter-spacing: 0.1em;
+		line-height: 3.05556em;
+		padding: 0 2.5em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+}
+
+.link-gallery:hover:active {
+				background-color: rgba(52, 165, 142, 0.15);
+				color: #34a58e !important;
+			}
+
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,

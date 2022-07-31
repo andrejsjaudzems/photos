@@ -374,6 +374,11 @@
 		white-space: nowrap;
 	}
 
+    .buttons-galleries {
+        display: flex;
+        justify-content: space-between;
+    }
+
     #link-gallery {
         -moz-appearance: none;
 		-webkit-appearance: none;

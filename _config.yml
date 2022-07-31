@@ -11,9 +11,13 @@ gallery_equines_image_thumbs_loc: "/images/gallery-equines/thumbs"
 gallery_nature_image_fulls_loc: "/images/gallery-nature/fulls"
 gallery_nature_image_thumbs_loc: "/images/gallery-nature/thumbs"
 
-# Nature
+# Entertainment
 gallery_entertainment_image_fulls_loc: "/images/gallery-entertainment/fulls"
 gallery_entertainment_image_thumbs_loc: "/images/gallery-entertainment/thumbs"
+
+# People
+gallery_people_image_fulls_loc: "/images/gallery-people/fulls"
+gallery_people_image_thumbs_loc: "/images/gallery-people/thumbs"
 
 # UI configs
 title: "Photos | Andrejs Jaudzems"

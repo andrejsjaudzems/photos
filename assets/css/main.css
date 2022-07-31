@@ -375,7 +375,7 @@
 		white-space: nowrap;
 	}
 
-	.button-gallery {
+	.link-gallery {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
@@ -418,7 +418,7 @@
 			button:hover:active,
 			.button:hover:active {
 				background-color: rgba(52, 165, 142, 0.15);
-				color: #34a58e !important;
+				color: #3485a5 !important;
 			}
 
 		input[type="submit"].icon,

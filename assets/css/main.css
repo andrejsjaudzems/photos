@@ -374,7 +374,7 @@
 		white-space: nowrap;
 	}
 
-#link-gallery {
+    #link-gallery {
         -moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
@@ -400,12 +400,17 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-}
+    }
 
-.link-gallery:hover:active {
+    .link-gallery:hover {
+			box-shadow: inset 0 0 0 2px #34a58e;
+			color: #34a58e !important;
+    }
+
+    .link-gallery:hover:active {
 				background-color: rgba(52, 165, 142, 0.15);
 				color: #34a58e !important;
-			}
+    }
 
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,

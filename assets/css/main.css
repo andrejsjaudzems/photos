@@ -192,13 +192,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: solid 1px;
-		color: #ffffff;
+		color: #a0a0a1;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #a59834 !important;
+			color: #ffffff !important;
 		}
 
 	strong, b {

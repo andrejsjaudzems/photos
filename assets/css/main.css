@@ -379,7 +379,7 @@
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
-        grid-gap: 1.5em;
+        grid-gap: 12px;
     }
 
     #link-gallery {

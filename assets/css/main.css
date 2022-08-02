@@ -1581,6 +1581,9 @@
         font-size: 1.0em;
         font-weight: 100;
         text-transform: uppercase;
+        text-decoration: underline;
+        text-underline-position: below;
+        border-bottom: 1px solid #ffffff;
 }
 
 

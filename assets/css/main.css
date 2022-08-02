@@ -1564,6 +1564,11 @@
 /* Banner */
 
 	#banner-gallery-head {
+        padding-top: 1.0em;
+        padding-bottom: 1.0em;
+}
+
+	#banner-gallery-head {
         width: 50%;
         margin: 0 auto;
         text-align: center;

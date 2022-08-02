@@ -1562,7 +1562,7 @@
 	}
 
 	#nav-bar-icon {
-        font-size: 1em;
+        font-size: 1.5em;
 }
 
 /* Banner */
@@ -1576,6 +1576,7 @@
 }
 
 	#banner-gallery-head {
+        display: inline-block;
         margin: 0 auto;
         text-align: center;
         font-size: 1.0em;

@@ -1569,14 +1569,13 @@
 
 	#banner-gallery {
         width: 100%;
+        display: inline-block;
         background-color: #242629;
         padding-top: 2.2em;
         padding-bottom: 2.2em;
 }
 
 	#banner-gallery-head {
-        display: inline-block;
-        width: 100%;
         margin: 0 auto;
         text-align: center;
         font-size: 1.0em;

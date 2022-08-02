@@ -1579,6 +1579,11 @@
         text-transform: uppercase;
 }
 
+	#banner-hr {
+        width: 20%;
+        margin: 0 auto;
+}
+
 	#banner-gallery-title {
         width: 100%;
         margin: 0 auto;

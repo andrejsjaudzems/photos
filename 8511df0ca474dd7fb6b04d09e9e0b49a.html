@@ -18,9 +18,10 @@ layout: default
     <!-- Main -->
     <div id="banner-gallery">
         <div id="banner-gallery-head">Client:</div>
-        <hr>
+        <hr id="banner-hr">
         <div id="banner-gallery-title">[Client Name]</div>
     </div>
+    
     <div id="main">
         {% for image in site.static_files %}
         {% if image.path contains 'gallery-people/fulls' %}

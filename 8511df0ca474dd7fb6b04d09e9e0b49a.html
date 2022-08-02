@@ -34,6 +34,11 @@ layout: default
         {% endif %}
         {% endfor %}
         
+        <div id="banner-gallery">
+            <div id="banner-gallery-head">Client</div>
+            <div id="banner-gallery-title">[Client Name]</div>
+        </div>
+        
         {% for image in site.static_files %}
         {% if image.path contains 'gallery-people/fulls' %}
         <article class="thumb">

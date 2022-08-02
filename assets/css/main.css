@@ -1580,8 +1580,7 @@
 }
 
 	#banner-hr {
-        width: 20%;
-        margin: 0 auto;
+        display: inline-block;
 }
 
 	#banner-gallery-title {

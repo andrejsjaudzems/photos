@@ -1564,8 +1564,7 @@
 /* Banner */
 
 	#banner-gallery {
-        padding: 50px;
-        margin: 50px;
+        margin: 10px 0 10px 40px;
         font-size: 20px;
 }
 

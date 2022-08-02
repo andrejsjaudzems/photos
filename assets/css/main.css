@@ -1561,6 +1561,15 @@
 
 	}
 
+/* Banner */
+
+	#banner-gallery {
+        padding: 50px;
+        margin: 50px;
+        font-size: 20px;
+}
+
+
 /* Main */
 
 	#main {

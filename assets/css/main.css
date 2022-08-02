@@ -1566,14 +1566,14 @@
 	#banner-gallery-head {
         width: 50%;
         margin: 0 auto;
-        justify-content: center;
+        text-align: center;
         font-size: 0.5em;
 }
 
 	#banner-gallery-title {
         width: 50%;
         margin: 0 auto;
-        justify-content: center;
+        text-align: center;
         font-size: 1.5em;
 }
 

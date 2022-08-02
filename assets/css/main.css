@@ -1583,7 +1583,7 @@
         text-transform: uppercase;
         text-decoration: underline;
         text-underline-position: below;
-        border-bottom: 1px solid #ffffff;
+        text-underline-offset: 2px;
 }
 
 

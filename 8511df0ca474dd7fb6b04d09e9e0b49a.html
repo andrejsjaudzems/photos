@@ -41,10 +41,10 @@ layout: default
         </div>
         
         {% for image in site.static_files %}
-        {% if image.path contains 'gallery-nature/fulls' %}
+        {% if image.path contains 'gallery-people/people-2/fulls' %}
         <article class="thumb">
-            <a href="{{ site.baseurl }}{{ site.gallery_nature_image_fulls_loc }}/{{ image.name }}" class="image">
-                <img src="{{ site.baseurl }}{{ site.gallery_nature_image_thumbs_loc }}/{{ image.name }}" alt=""
+            <a href="{{ site.baseurl }}{{ site.gallery_people-2_image_fulls_loc }}/{{ image.name }}" class="image">
+                <img src="{{ site.baseurl }}{{ site.gallery_people-2_image_thumbs_loc }}/{{ image.name }}" alt=""
                      data-name="{{ image.name }}"/></a>
             <!--<h2></h2>
             <p></p>-->

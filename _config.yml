@@ -15,6 +15,10 @@ gallery_nature_image_thumbs_loc: "/images/gallery-nature/thumbs"
 gallery_entertainment_image_fulls_loc: "/images/gallery-entertainment/fulls"
 gallery_entertainment_image_thumbs_loc: "/images/gallery-entertainment/thumbs"
 
+# Landscape
+gallery_landscape_image_fulls_loc: "/images/gallery-landscape/fulls"
+gallery_landscape_image_thumbs_loc: "/images/gallery-landscape/thumbs"
+
 # People-1
 gallery_people-1_image_fulls_loc: "/images/gallery-people/people-1/fulls"
 gallery_people-1_image_thumbs_loc: "/images/gallery-people/people-1/thumbs"

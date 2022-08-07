@@ -3,9 +3,9 @@
 gallery_main_image_fulls_loc: "/images/gallery-main/fulls"
 gallery_main_image_thumbs_loc: "/images/gallery-main/thumbs"
 
-# Equines
-gallery_equines_image_fulls_loc: "/images/gallery-equines/fulls"
-gallery_equines_image_thumbs_loc: "/images/gallery-equines/thumbs"
+# Horses
+gallery_horses_image_fulls_loc: "/images/gallery-horses/fulls"
+gallery_horses_image_thumbs_loc: "/images/gallery-horses/thumbs"
 
 # Nature
 gallery_nature_image_fulls_loc: "/images/gallery-nature/fulls"

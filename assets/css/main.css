@@ -2082,40 +2082,9 @@
 
 /* Home banners */
 
-#wrapper-home {
-    width: 100%;
-    background-color: beige;
-    min-height: 100%;
-    min-width: 100%;
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    z-index: -1;
-    height: 200px;
-    object-fit: cover;
-}
-
 #homebanner-1 {
-    /*left: 50%;
-    position: absolute;
-    transform: translate(-50%,0);*/
-    min-height: 100%;
-    min-width: 100%;
-}
-
-#homebanner-2 {
-    position:relative;
-    height:200px;
-    width:100%;
-    background-position: center center;
-    background-size:contain;
-    left: 0;
-    top:0;
-    z-index: -999;
-}
-
-#homebanner-3 {
     width: 100%;
+    height: 25%;
     padding: 25px;
     background: url(https://www.andrejsjaudzems.com/photos/images/gallery-home/01-horses-0Q1A7105.jpg);
     background-repeat: no-repeat;

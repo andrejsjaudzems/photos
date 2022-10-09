@@ -2082,7 +2082,7 @@
 
 /* Home banners */
 
-.wrapper-home {
+#wrapper-home {
     width: 100%;
     background-color: beige;
 }

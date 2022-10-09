@@ -2082,6 +2082,11 @@
 
 /* Home banners */
 
+.homebanner-1 {
+  /* The image used */
+  object-fit: cover;
+}
+
 .homebanner-1-parallax {
   /* The image used */
   background-image: '/images/gallery-home/01-horses-0Q1A7105.jpg';

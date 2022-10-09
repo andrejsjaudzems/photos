@@ -2113,3 +2113,10 @@
     top:0;
     z-index: -999;
 }
+
+#homebanner-3 {
+    padding: 25px;
+    background: url(https://www.andrejsjaudzems.com/photos/images/gallery-home/01-horses-0Q1A7105.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

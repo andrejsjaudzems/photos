@@ -1581,10 +1581,10 @@
         font-size: 1.0em;
         font-weight: 100;
         text-transform: uppercase;
-        text-decoration: underline #595959;
+        /*text-decoration: underline #595959;
         text-decoration-thickness: 1px;
         text-underline-position: below;
-        text-underline-offset: 5px;
+        text-underline-offset: 5px;*/
 }
 
 
@@ -2089,6 +2089,7 @@
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
+    opacity: 0.8 !important;
 }
 
 .homebanner-text {

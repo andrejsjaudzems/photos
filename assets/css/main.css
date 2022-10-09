@@ -2103,3 +2103,13 @@
     min-width: 100%;
 }
 
+#homebanner-2 {
+    position:relative;
+    height:200px;
+    width:100%;
+    background-position: center center;
+    background-size:contain;
+    left: 0;
+    top:0;
+    z-index: -999;
+}

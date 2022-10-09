@@ -2083,12 +2083,7 @@
 /* Home banners */
 
 .homebanner {
-    width: 100% !important;
-    height: 500px !important;
-    padding: 25px !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
+
 }
 
 .homebanner-img {

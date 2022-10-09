@@ -2096,10 +2096,10 @@
 }
 
 #homebanner-1 {
-    left: 50%;
+    /*left: 50%;
     position: absolute;
     transform: translate(-50%,0);
     min-height: 100%;
-    min-width: 100%;
+    min-width: 100%;*/
 }
 

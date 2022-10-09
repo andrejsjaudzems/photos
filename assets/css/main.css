@@ -2089,7 +2089,7 @@
 
 .homebanner-1 {
   /* The image used */
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .homebanner-1-parallax {

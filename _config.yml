@@ -1,7 +1,4 @@
 # Gallery configs
-# Main
-gallery_main_image_fulls_loc: "/images/gallery-main/fulls"
-gallery_main_image_thumbs_loc: "/images/gallery-main/thumbs"
 
 # Horses
 gallery_horses_image_fulls_loc: "/images/gallery-horses/fulls"

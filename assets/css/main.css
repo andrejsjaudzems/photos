@@ -2083,12 +2083,8 @@
 /* Home banners */
 
 .wrapper-home {
-    min-height: 100%;
-    min-width: 100%;
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    z-index: -1;
+    width: 100%;
+    background-color: beige;
 }
 
 #homebanner-1 {
@@ -2099,16 +2095,3 @@
     min-width: 100%;
 }
 
-.homebanner-1-parallax {
-  /* The image used */
-  background-image: url('/photos/images/gallery-home/01-horses-0Q1A7105.jpg');
-
-  /* Full height */
-  height: 100%; 
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}

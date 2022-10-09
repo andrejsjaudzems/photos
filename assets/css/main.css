@@ -2094,7 +2094,7 @@
 
 .homebanner-1-parallax {
   /* The image used */
-  background-image: '/images/gallery-home/01-horses-0Q1A7105.jpg';
+  background-image: url('/photos/images/gallery-home/01-horses-0Q1A7105.jpg');
 
   /* Full height */
   height: 100%; 

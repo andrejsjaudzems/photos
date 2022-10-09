@@ -2091,12 +2091,11 @@
     position: absolute;
     top: 0;
     z-index: -1;
-    font-size: 40px;
     height: 200px;
+    object-fit: cover;
 }
 
 #homebanner-1 {
-    object-fit: cover;
     left: 50%;
     position: absolute;
     transform: translate(-50%,0);

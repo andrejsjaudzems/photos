@@ -2106,5 +2106,6 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    border-bottom: none;
     z-index: 0;
 }

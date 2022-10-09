@@ -2084,15 +2084,10 @@
 
 #wrapper-home {
     width: 100%;
-    background-color: beige;
-    min-height: 100%;
-    min-width: 100%;
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    z-index: -1;
     height: 200px;
     object-fit: cover;
+    background-color: beige;
+    top: 0;
 }
 
 #homebanner-1 {

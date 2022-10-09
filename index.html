@@ -1,12 +1,9 @@
-
 ---
 layout: default
 ---
 
 <!-- Wrapper -->
 <div id="wrapper">
-    
-
 
     <!-- Header -->
     <header id="header">
@@ -20,11 +17,17 @@ layout: default
 
     <!-- Main -->
     <div id="main">
-
-        <div class="wrapper-home">
-            <div class="homebanner-1"></div>
-        </div>
-        
+        {% for image in site.static_files %}
+        {% if image.path contains 'gallery-main/fulls' %}
+        <article class="thumb">
+            <a href="{{ site.baseurl }}{{ site.gallery_main_image_fulls_loc }}/{{ image.name }}" class="image">
+                <img src="{{ site.baseurl }}{{ site.gallery_main_image_thumbs_loc }}/{{ image.name }}" alt=""
+                     data-name="{{ image.name }}"/></a>
+            <!--<h2></h2>
+            <p></p>-->
+        </article>
+        {% endif %}
+        {% endfor %}
     </div>
 
     <!-- Footer -->
@@ -85,4 +88,3 @@ layout: default
         </div>
     </footer>
 </div>
-

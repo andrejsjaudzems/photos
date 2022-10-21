@@ -1599,7 +1599,7 @@
 	#banner-gallery-footer {
         width: 100%;
         margin: 0 auto;
-        text-align: center;
+        text-align: center !important;
         font-size: 1.0em;
         font-weight: 100;
         text-transform: uppercase;

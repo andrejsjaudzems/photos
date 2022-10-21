@@ -1581,6 +1581,7 @@
         font-size: 2.0em;
         font-weight: 100;
         color: #c9c9c9;
+        text-transform: uppercase;
 }
 
 	#banner-gallery-head {
@@ -1602,7 +1603,7 @@
         text-align: center;
         font-size: 1.0em;
         font-weight: 100;
-        text-transform: uppercase;
+        /*text-transform: uppercase;*/
         /*text-decoration: underline #595959;
         text-decoration-thickness: 1px;
         text-underline-position: below;

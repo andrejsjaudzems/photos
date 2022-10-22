@@ -123,54 +123,6 @@
 		}
 	}
 
-/* Fades */
-
-.fade-in-1 {
-    animation: fadeIn ease 2s;
-    -webkit-animation: fadeIn ease 2s;
-    -moz-animation: fadeIn ease 2s;
-    -o-animation: fadeIn ease 2s;
-    -ms-animation: fadeIn ease 2s;
-}
-
-.fade-in-2 {
-    animation: fadeIn ease 2s;
-    animation-delay: 1.5s;
-    animation-fill-mode: both;
-    -webkit-animation: fadeIn ease 2s;
-    -webkit-animation-delay: 1.5s;
-    -webkit-animation-fill-mode: both;
-    -moz-animation: fadeIn ease 2s;
-    -moz-animation-delay: 1.5s;
-    -moz-animation-fill-mode: both;
-    -o-animation: fadeIn ease 2s;
-    -o-animation-delay: 1.5s;
-    -o-animation-fill-mode: both;
-    -ms-animation: fadeIn ease 2s;
-    -ms-animation-delay: 1.5s;
-    -ms-animation-fill-mode: both;
-}
-
-@keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-@-moz-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-@-webkit-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-@-o-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}@-ms-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1};
-}
-
 /* Basic */
 
 	@-ms-viewport {
@@ -1623,6 +1575,16 @@
 }
 
 	#banner-gallery-title {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 2.0em;
+        font-weight: 100;
+        color: #c9c9c9;
+        text-transform: uppercase;
+}
+
+	#banner-gallery-subtitle {
         width: 100%;
         margin: 0 auto;
         text-align: center;

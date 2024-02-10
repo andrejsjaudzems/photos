@@ -28,6 +28,10 @@ gallery_people-2_image_thumbs_loc: "/images/gallery-people/people-2/thumbs"
 gallery_people-3_image_fulls_loc: "/images/gallery-people/people-3/fulls"
 gallery_people-3_image_thumbs_loc: "/images/gallery-people/people-3/thumbs"
 
+# People-4
+gallery_people-4_image_fulls_loc: "/images/gallery-people/people-4/fulls"
+gallery_people-4_image_thumbs_loc: "/images/gallery-people/people-4/thumbs"
+
 # UI configs
 title: "Photos | Andrejs Jaudzems"
 subtitle: "A space for my photographs"

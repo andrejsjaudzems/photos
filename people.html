@@ -80,6 +80,26 @@ layout: default
         {% endif %}
         {% endfor %}
         
+        <div id="banner-gallery">
+            <!--<div id="banner-gallery-head">Client</div>-->
+            <div id="banner-gallery-title">Katie</div>
+            <div id="banner-gallery-footer">
+                <p id="banner-gallery-subtitle">Horsewoman</p>
+            </div>
+        </div>
+        
+        {% for image in site.static_files %}
+        {% if image.path contains 'gallery-people/people-4/fulls' %}
+        <article class="thumb">
+            <a href="{{ site.baseurl }}{{ site.gallery_people-4_image_fulls_loc }}/{{ image.name }}" class="image">
+                <img src="{{ site.baseurl }}{{ site.gallery_people-4_image_thumbs_loc }}/{{ image.name }}" alt=""
+                     data-name="{{ image.name }}"/></a>
+            <!--<h2></h2>
+            <p></p>-->
+        </article>
+        {% endif %}
+        {% endfor %}
+        
     </div>
     
     <!-- Footer -->
